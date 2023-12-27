@@ -1,0 +1,21 @@
+.list-items {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.button {
+  border: 1px solid #000000;
+  border-radius: 9px;
+  padding: 10px;
+  color: #000000;
+  background-color: transparent;
+  width: 80px;
+}
+.button1 {
+  border-radius: 9px;
+  padding: 10px;
+  color: #ffffff;
+  background-color: #db1c48;
+  width: 80px;
+  border: none;
+}
